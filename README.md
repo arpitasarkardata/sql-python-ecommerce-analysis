@@ -1,4 +1,4 @@
-# 🛒 Ecommerce Data Analysis — SQL + Python
+# 🛒  Enterprise Data Analysis & ERP Module Simulation
 
 ## 📌 Project Overview
 
